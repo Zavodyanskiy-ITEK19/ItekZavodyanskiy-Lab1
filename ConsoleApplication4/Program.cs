@@ -9,15 +9,23 @@ namespace ConsoleApplication4
     {
         static void Main(string[] args)
         {
-            Console.Write(" Введитечисло А ");
-            int k = Int32.Parse(Console.ReadLine());
-            if (k % 2 == 0)
+            try
             {
-                Console.WriteLine("числочетное\n");
+
+                Console.Write(" Введитечисло А ");
+                int k = Int32.Parse(Console.ReadLine());
+                if (k % 2 == 0)
+                {
+                    Console.WriteLine("числочетное\n");
+                }
+                else
+                {
+                    Console.WriteLine(" числонечетное\n");
+                }
             }
-            else
+            catch 
             {
-                Console.WriteLine(" числонечетное\n");
+                Console.WriteLine("Ошибка")
             }
 
         }
