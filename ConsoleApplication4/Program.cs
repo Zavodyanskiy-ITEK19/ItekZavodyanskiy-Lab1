@@ -9,7 +9,7 @@ namespace ConsoleApplication4
     {
         static void Main(string[] args)
         {
-            Console.Write(" Введитечисло ");
+            Console.Write(" Введитечисло А ");
             int k = Int32.Parse(Console.ReadLine());
             if (k % 2 == 0)
             {

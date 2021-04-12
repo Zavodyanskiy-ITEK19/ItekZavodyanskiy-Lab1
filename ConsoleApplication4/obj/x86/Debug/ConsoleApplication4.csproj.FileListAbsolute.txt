@@ -2,3 +2,5 @@ D:\VisualProjects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleAppli
 D:\VisualProjects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
 D:\VisualProjects\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
 D:\VisualProjects\ConsoleApplication4\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
+C:\projects\ItekZavodyanskiy-Lab1\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.exe
+C:\projects\ItekZavodyanskiy-Lab1\ConsoleApplication4\obj\x86\Debug\ConsoleApplication4.pdb
